@@ -1,0 +1,52 @@
+{
+    "name": "SpaceShot",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "sprite-scaling": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.0",
+        "tag": "v4.0.14",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a33ec9537bc6c5fada2a3b02aac57a4bc9a10803",
+        "target": "4.0.14",
+        "pxt": "12.2.34",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#FF93C4",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
+    ]
+}
